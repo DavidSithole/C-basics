@@ -1,0 +1,15 @@
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\bin\Debug\net7.0\csharp-practice.exe
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\bin\Debug\net7.0\csharp-practice.deps.json
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\bin\Debug\net7.0\csharp-practice.runtimeconfig.json
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\bin\Debug\net7.0\csharp-practice.dll
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\bin\Debug\net7.0\csharp-practice.pdb
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\obj\Debug\net7.0\csharp-practice.csproj.AssemblyReference.cache
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\obj\Debug\net7.0\csharp-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\obj\Debug\net7.0\csharp-practice.AssemblyInfoInputs.cache
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\obj\Debug\net7.0\csharp-practice.AssemblyInfo.cs
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\obj\Debug\net7.0\csharp-practice.csproj.CoreCompileInputs.cache
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\obj\Debug\net7.0\csharp-practice.dll
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\obj\Debug\net7.0\refint\csharp-practice.dll
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\obj\Debug\net7.0\csharp-practice.pdb
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\obj\Debug\net7.0\csharp-practice.genruntimeconfig.cache
+C:\Users\Geeks4Learning\Desktop\csharp\C-basics\csharp-practice\obj\Debug\net7.0\ref\csharp-practice.dll
